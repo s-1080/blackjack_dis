@@ -1,0 +1,10 @@
+# 環境変数
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# ログ
+error.log
+*.log
