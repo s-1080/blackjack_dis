@@ -8,3 +8,6 @@ __pycache__/
 # ログ
 error.log
 *.log
+
+# デプロイ手順（管理者用・公開しない）
+DEPLOY.md
